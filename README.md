@@ -4,12 +4,12 @@
 
 ## Languages: (In order)
 
-- Java
-- Visual C#
-- Python
-- C++
-- JS
-- I can probably code most other languages by googling syntax.
+0. Java
+1. Visual C#
+2. Python
+3. C++
+4. JS
+5. I can probably code most other languages by Googling syntax.
 
 ## Active projects:
 
