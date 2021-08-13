@@ -13,5 +13,5 @@
 
 ## Active projects:
 
-- AdditionsMC Fabric
-- CatOS (Delayed)
+- Poco Plugin
+- Generic Discord Bot
