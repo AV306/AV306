@@ -2,16 +2,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AV306&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages: (In order)
+## Languages: (In order of current interest/skill)
 
-0. Java
-1. Visual C#
-2. Python
-3. C++
-4. JS
-5. I can probably code most other languages by Googling syntax.
+0. Assembly (I'm still terrible at it)
+1. C++
+2. JS
+3. Java
+4. Everything else (e.g. Python, C#)
 
 ## Active projects:
 
-- Poco Plugin
-- Generic Discord Bot
+Exams are coming :( so all projects are suspended
