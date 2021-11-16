@@ -11,6 +11,4 @@
 
 ## Active projects (In order of priority):
 
-Exams almost over :D 
-
-0. AdditionsMC 2
+MaxiGames.js
