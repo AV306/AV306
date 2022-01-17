@@ -5,6 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AV306&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 (How is JS my top language? I do pretty much everything in Java these days)
+(Wha- how is it HTML now)
 
 ## Active projects (In order of priority):
 
