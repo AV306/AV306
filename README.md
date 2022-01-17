@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AV306&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=fabric-yarn-javadoc,fabric-api-javadoc,Maxigames.js,Game,PaintApp)](https://github.com/anuraghazra/github-readme-stats)
 
-(How is JS my top language? I do pretty much everything in Java these days)
-
 ## Active projects (In order of priority):
 
 0. Xenon
