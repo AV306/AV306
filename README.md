@@ -6,5 +6,5 @@
 
 ## Active projects (In order of priority):
 
-0. Xenon (Currently experiencing issues with Git, development stalled)
+0. Xenon
 1. MCValorant remake
