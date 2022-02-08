@@ -7,4 +7,4 @@
 ## Active projects (In order of priority):
 
 0. Xenon
-1. MCValorant remake
+1. ant-game
