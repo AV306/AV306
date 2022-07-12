@@ -14,3 +14,10 @@ I am a student from Singapore :singapore: ! I make Minecraft mods and (non-exist
 1. Game that I can't find a name for
 
 ## My contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
+
+## Portfolio
+- [PaintApp](https://av306.github.io/PaintApp): a basic drawing app with different brush types, shape and text tools. Made in p5.js for a school project.
+
+- [Xenon](https://github.com/AV306/xenon): A Minecraft Fabric utility mod with features such as Timer and FullBright.
+
+- "Untitled Game": An Unreal Engine physics sandbox game about manipulating terrain, building structures, flying aircraft and generally having fun with friends.
