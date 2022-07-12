@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a student from Singapore 🇸🇬! I make Minecraft mods and (non-existent) games!
+I am a student from Singapore :singapore: ! I make Minecraft mods and (non-existent) games!
 
 (please ignore the many empty repos, I'll get around to finishing them someday)
 
