@@ -25,3 +25,5 @@ I am a student from Singapore :singapore: ! I make Minecraft mods and (non-exist
 - [Jay2D](https://av306.github.io/2d-engine-p5js): A basic 2D game engine made in p5js, with sprites, physics and rudimentary, unreliable circle colliders.
 
 - 3GB worth of media and VFX for a play (school project, subject to school information distribution rules)
+
+- [Some interesting shaders](https://av306.github.io/interesting-graphics) (Still uploading them)
