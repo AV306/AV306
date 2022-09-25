@@ -2,6 +2,13 @@
 
 I am a student from Singapore :singapore: ! I make Minecraft mods and (non-existent) games!
 
+My favourite languages are (in no particular order):
+- Java
+- C++ (`constexpr` best feature)
+- JS / TS
+- GLSL (not really a language, but I love shaders)
+- Python (there's something about built-in JSON and HTTP request libraries that I find strangely attractive)
+
 (please ignore the many empty repos, I'll get around to finishing them someday)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AV306&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,7 +20,7 @@ I am a student from Singapore :singapore: ! I make Minecraft mods and (non-exist
 0. Xenon
 1. Gravity manipulation puzzle game (temporary name: "Gravitation")
 
-## My contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
+## My major contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
 
 ## Portfolio
 - [PaintApp](https://av306.github.io/PaintApp): a basic drawing app with different brush types, shape and text tools. Made in p5.js for a school project.
