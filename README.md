@@ -35,8 +35,8 @@ My favourite languages are (in no particular order):
 
 - [Some interesting shaders](https://av306.github.io/interesting-graphics) (Still uploading them)
 
-- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery) (Not uploaded yet, find the raw version [here](https://editor.p5js.org/AV306/sketches/_Q6MfvXlo))
+- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
 - Various PaperMC plugins
 
-- Documentation and code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord (last I checked)
+- Documentation and code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last I checked)
