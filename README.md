@@ -3,7 +3,7 @@
 I am a student from Singapore :singapore: ! I make Minecraft mods and (non-existent) games!
 
 My favourite languages are (in no particular order):
-- Java
+- Java (honestly, what's so wrong with implementation inheritance?)
 - C++ (`constexpr` best feature)
 - JS / TS
 - GLSL (not really a language, but I love shaders)
@@ -18,7 +18,7 @@ My favourite languages are (in no particular order):
 ## Active projects (In order of priority):
 
 0. Xenon
-1. Gravity manipulation puzzle game (temporary name: "Gravitation")
+1. "Gravitation"
 
 ### My major contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
 
@@ -29,13 +29,13 @@ My favourite languages are (in no particular order):
 
 - "Gravitation": A (incomplete) Unity game where you change the direction and magnitude of gravity, knock objects together, and solve puzzles with a little red ball.
 
-- [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5js, with sprites, physics and rudimentary, unreliable circle colliders.
+- [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
 
 - 3GB worth of media and VFX for a play (school project, subject to school information distribution rules)
 
 - [Some interesting shaders](https://av306.github.io/interesting-graphics) (Still uploading them)
 
-- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
+- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
 - Various PaperMC plugins
 
