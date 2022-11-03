@@ -5,7 +5,7 @@ I am a student from Singapore :singapore: ! I make Minecraft mods and (non-exist
 My favourite languages are (in no particular order):
 - Java (honestly, what's so wrong with implementation inheritance?)
 - C++ (`constexpr` best feature)
-- JS / TS
+- JS / TS (React!)
 - GLSL (not really a language, but I love shaders)
 - Python (there's something about built-in JSON and HTTP request libraries that I find strangely attractive)
 
@@ -40,3 +40,5 @@ My favourite languages are (in no particular order):
 - Various PaperMC plugins
 
 - Documentation and code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last I checked)
+
+- [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase.
