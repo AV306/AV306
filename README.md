@@ -2,8 +2,9 @@
 
 I am a student from Singapore :singapore: ! I make Minecraft mods and (non-existent) games!
 
-My favourite languages are (in no particular order):
+My preferred languages are (in no particular order):
 - Java (honestly, what's so wrong with implementation inheritance?)
+- C# (nice blend of Java and C++)
 - C++ (`constexpr` best feature)
 - JS / TS (React!)
 - GLSL (not really a language, but I love shaders)
@@ -18,22 +19,23 @@ My favourite languages are (in no particular order):
 ## Active projects (In order of priority):
 
 0. Xenon
-1. "Gravitation"
+1. Gravitation
 
 ### My major contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
 
 ## Portfolio
+
 - [PaintApp](https://av306.github.io/PaintApp): a basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
 
 - [Xenon](https://github.com/AV306/xenon): A fully scalable, object-oriented Minecraft Fabric utility mod written in Java. Features include FullBright, Timer, WAILA, Halo Red Reticle and more.
 
-- "Gravitation": A (incomplete) Unity game where you change the direction and magnitude of gravity, knock objects together, and solve puzzles with a little red ball.
+- "Gravitation": A (incomplete) game where you change the direction and magnitude of gravity, knock objects together, and solve puzzles with a little red ball.
 
 - [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
 
 - 3GB worth of media and VFX for a play (school project, subject to school information distribution rules)
 
-- [Some interesting shaders](https://av306.github.io/interesting-graphics) (Still uploading them)
+- [Some interesting shaders](https://av306.github.io/interesting-graphics)
 
 - [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
@@ -41,4 +43,4 @@ My favourite languages are (in no particular order):
 
 - Documentation and code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last I checked)
 
-- [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase.
+- [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley.
