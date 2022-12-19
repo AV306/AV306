@@ -2,8 +2,8 @@
 
 I am a student from Singapore :singapore: ! I make Minecraft mods and (non-existent) games!
 
-My preferred languages are (in no particular order):
-- Java (honestly, what's so wrong with implementation inheritance?)
+My preferred languages (no particular order):
+- Java
 - C# (nice blend of Java and C++)
 - C++ (`constexpr` best feature)
 - JS / TS (React!)
@@ -19,7 +19,6 @@ My preferred languages are (in no particular order):
 ## Active projects (In order of priority):
 
 0. Xenon
-1. Gravitation
 
 ### My major contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
 
@@ -28,8 +27,6 @@ My preferred languages are (in no particular order):
 - [PaintApp](https://av306.github.io/PaintApp): a basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
 
 - [Xenon](https://github.com/AV306/xenon): A fully scalable, object-oriented Minecraft Fabric utility mod written in Java. Features include FullBright, Timer, WAILA, Halo Red Reticle and more.
-
-- "Gravitation": A (incomplete) game where you change the direction and magnitude of gravity, knock objects together, and solve puzzles with a little red ball.
 
 - [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
 
