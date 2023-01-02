@@ -26,7 +26,7 @@ My preferred languages (no particular order):
 
 - [PaintApp](https://av306.github.io/PaintApp): a basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
 
-- [Xenon](https://github.com/AV306/xenon): A fully scalable, object-oriented Minecraft Fabric utility mod written in Java. Features include FullBright, Timer, WAILA, Halo Red Reticle and more.
+- [Xenon](https://github.com/AV306/xenon): An easily scalable, fully object-oriented and efficient Minecraft Fabric utility mod written in Java. Features include FullBright, Timer, WAILA, Halo Red Reticle and more.
 
 - [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
 
