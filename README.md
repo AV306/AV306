@@ -30,13 +30,15 @@ My preferred languages (no particular order):
 
 - [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
 
-- 3GB worth of media and VFX for a play (school project, subject to school information distribution rules)
+- [explore.js](https://av306.github.io/explore.js): Minecraft 2D, but you can't mine or craft. Work in progress.
 
 - [Some interesting shaders](https://av306.github.io/interesting-graphics)
 
 - [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
 - Various PaperMC plugins
+
+- [math](https://github.com/AV306/math): Some math helper tools
 
 - Documentation and code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last I checked)
 
