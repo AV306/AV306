@@ -24,11 +24,17 @@ My preferred languages (no particular order):
 
 ## Portfolio
 
-- [PaintApp](https://av306.github.io/PaintApp): a basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
+Java:
 
 - [Xenon](https://github.com/AV306/xenon): An easily scalable, fully object-oriented and efficient Minecraft Fabric utility mod written in Java. Features include FullBright, Timer, WAILA, Halo Red Reticle and more.
 
-- [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
+- Various PaperMC plugins
+
+JS / TS:
+
+- [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley.
+
+- [PaintApp](https://av306.github.io/PaintApp): a basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
 
 - [explore.js](https://av306.github.io/explore.js): Minecraft 2D, but you can't mine or craft. Work in progress.
 
@@ -36,10 +42,8 @@ My preferred languages (no particular order):
 
 - [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
-- Various PaperMC plugins
-
 - [math](https://github.com/AV306/math): Some math helper tools
 
 - Documentation and code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last I checked)
 
-- [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley.
+- [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
