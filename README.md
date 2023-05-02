@@ -19,6 +19,7 @@ My preferred languages (no particular order):
 ## Active projects (In order of priority):
 
 0. Xenon
+1. explainxkcd-extension
 
 ### My major contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
 
@@ -38,8 +39,6 @@ JS / TS:
 
 - [explore.js](https://av306.github.io/explore.js): Minecraft 2D, but you can't mine or craft. Work in progress.
 
-- [Some interesting shaders](https://av306.github.io/interesting-graphics)
-
 - [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
 - [math](https://github.com/AV306/math): Some math helper tools
@@ -49,3 +48,9 @@ JS / TS:
 - Documentation and code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last I checked)
 
 - [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
+
+Other:
+
+- explainxkcd-extension: Add a button to every XKCD comic page that links to the corresponding Explain XKCD page
+
+- [Some interesting shaders](https://av306.github.io/interesting-graphics)
