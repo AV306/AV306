@@ -3,9 +3,9 @@
 I am a student from Singapore :singapore: ! I make Minecraft mods and (non-existent) games!
 
 My preferred languages (no particular order):
-- Java
+- Java / Kotlin
 - C# (nice blend of Java and C++)
-- JS / TS (React!)
+- JS / TS (React! I also just like `canvas`-based games)
 - C++ (`constexpr` best feature)
 - GLSL (not really a language, but I love shaders)
 - Python (there's something about built-in JSON and HTTP request libraries that I find strangely attractive)
