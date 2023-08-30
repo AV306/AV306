@@ -18,8 +18,7 @@ My preferred languages (no particular order):
 
 ## Active projects (In order of priority):
 
-0. Xenon
-1. explainxkcd-extension
+**On hiatus until mid-October for finals**
 
 ### My major contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
 
