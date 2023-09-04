@@ -1,14 +1,15 @@
 ## Hello!
 
-I am a student from Singapore :singapore: ! I make Minecraft mods and (non-existent) games!
+I'm a student from Singapore :singapore: who codes and draws sometimes!
+
+<br>
 
 My preferred languages (no particular order):
 - Java / Kotlin
-- C# (nice blend of Java and C++)
-- JS / TS (React! I also just like `canvas`-based games)
-- C++ (`constexpr` best feature)
+- C# (nice blend of Java and C++, also Unity is fun)
+- JS / TS (I like `canvas`-based games a lot for some reason)
 - GLSL (not really a language, but I love shaders)
-- Python (there's something about built-in JSON and HTTP request libraries that I find strangely attractive)
+- Python (there's something about built-in JSON and HTTP libraries that I find strangely attractive)
 
 (please ignore the many empty repos, I'll get around to finishing them someday)
 
@@ -16,19 +17,29 @@ My preferred languages (no particular order):
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AV306&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=fabric-yarn-javadocs,fabric-api-javadocs,fabric-loader-javadocs,Maxigames.js,Game,PaintApp)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
 ## Active projects (In order of priority):
 
 **On hiatus until mid-October for finals**
 
+<br>
+
 ### My major contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
 
-## Portfolio
+<br>
+
+## Portfolio?
 
 Java:
 
-- [Xenon](https://github.com/AV306/xenon): An easily scalable, fully object-oriented and efficient Minecraft Fabric utility mod written in Java. Features include FullBright, Timer, WAILA, Halo Red Reticle and more.
+- [Xenon](https://github.com/AV306/xenon): An easily scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, Red Reticle and more!
+
+- [Blencord](https://github.com/AV306/blencord): A very minimal and basic command-line Discord client, made with Javacord.
 
 - Various PaperMC plugins
+
+<br>
 
 JS / TS:
 
@@ -48,8 +59,11 @@ JS / TS:
 
 - [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
 
+<br>
+
 Other:
 
 - explainxkcd-extension: Add a button to every XKCD comic page that links to the corresponding Explain XKCD page
 
 - [Some interesting shaders](https://av306.github.io/interesting-graphics)
+
