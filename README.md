@@ -47,7 +47,7 @@ My preferred languages (no particular order):
 
 <br>
 
-### My major contribution to the OSS world: [this issue](https://github.com/GoulartNogueira/BadUI/issues/1)
+### [My major contribution to OSS](https://github.com/GoulartNogueira/BadUI/issues/1)
 
 <br>
 
