@@ -2,11 +2,20 @@
 
 I'm a student from Singapore :singapore: who codes and draws sometimes!
 
-<p></p>
-<!-- I'm also a furry, no hate pls ;w; -->
-<!-- Protogens are cool :D             -->
-<!-- If you've noticed these, hello!   -->
+I go by the name "Blender" or some variation of "AV3_08" (depending on availability) on most sites.
+
 <!--
+I'm also a furry, no hate pls, I'm just a guy who likes drawing anthro animals to express myself ;w;
+
+While I'm at it, have some info on my OCs:
+  > Blender (my sona) - quiet ginger cat, loves science, programming and engineering (especially all 3 together in a project). A bit socially awkward
+  > Tachyon - Extroverted gray/white protogen, flies planes. Blender's close friend, symbol is λ̬ because I like Half-Life and diacritics are cool
+  > Dicot - green fox, botanist, also Blender's and Tachyon's friend (of course). His design came from a bunch of doodles on my bio notes
+-->
+
+<!--
+If you've noticed these, hello!
+
 ⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿
