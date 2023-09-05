@@ -62,7 +62,7 @@ My preferred languages (no particular order):
 
 ## Portfolio?
 
-Java:
+**Java:**
 
 - [Xenon](https://github.com/AV306/xenon): An easily scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, Red Reticle and more!
 
@@ -72,7 +72,7 @@ Java:
 
 <br>
 
-JS / TS:
+**JS / TS:**
 
 - [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley.
 
@@ -92,7 +92,7 @@ JS / TS:
 
 <br>
 
-Other:
+**Other:**
 
 - explainxkcd-extension: Add a button to every XKCD comic page that links to the corresponding Explain XKCD page
 
