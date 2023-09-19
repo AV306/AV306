@@ -46,7 +46,7 @@ My preferred languages (no particular order):
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AV306&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AV306&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=fabric-yarn-javadocs,fabric-api-javadocs,fabric-loader-javadocs,Maxigames.js,Game,PaintApp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AV306&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=fabric-yarn-javadocs,fabric-api-javadocs,fabric-loader-javadocs,Maxigames.js,Game,homework-recorder)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -54,7 +54,13 @@ My preferred languages (no particular order):
 
 **On hiatus until mid-October for finals**
 
-the last sprint is always the hardest yet the most fulfilling. saying this as a 400m runner
+aaaaaaaaaAAAAAAAAAAHHHHHhhHAAAAAAAAAAAAAAaaaaaaaaaaa
+
+send help please
+
+Exams end: <relative-time datetime="2023-10-09T12:00:00" format="relative">October 9, 2023</relative-time>
+
+Time to end: <relative-time datetime="2023-10-09T12:00:00" format="duration">like 19 days or something</relative-time>
 
 <br>
 
@@ -62,19 +68,19 @@ the last sprint is always the hardest yet the most fulfilling. saying this as a 
 
 <br>
 
-## Portfolio?
+## Things I did
 
 **Java:**
 
 - [Xenon](https://github.com/AV306/xenon): An easily scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, Red Reticle and more!
 
-- [Blencord](https://github.com/AV306/blencord): A very minimal and basic command-line Discord client, made with Javacord.
+- [Blencord](https://github.com/AV306/blencord): A very minimal and basic command-line Discord client, made with Javacord in 2 hours.
 
-- Various PaperMC plugins
+- Various PaperMC plugins (I forgot where they went)
 
 <br>
 
-**JS / TS:**
+**Web / JS:**
 
 - [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley.
 
@@ -84,19 +90,21 @@ the last sprint is always the hardest yet the most fulfilling. saying this as a 
 
 - [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
-- [math](https://github.com/AV306/math): Some math helper tools
+- [math](https://github.com/AV306/math): Some math helper tools, mostly for graphics stuff I do
 
-- [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A basic frequency analyser for simple substitution ciphers. Made for the Sentinel Programme.
+- [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A basic frequency analyser for simple substitution ciphers. Made for the Sentinel Programme (school thing).
 
-- Documentation and code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last I checked)
+- Documentation and (one) code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last checked: somewhere in June)
 
-- [Jay2D](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders.
+- [2D engine](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders. Just for fun.
 
 <br>
 
 **Other:**
 
-- explainxkcd-extension: Add a button to every XKCD comic page that links to the corresponding Explain XKCD page
+- [xkcd-qol](https://github.com/AV306/xkcd-qol): Extension that adds stuff to XKCD comic pages
 
 - [Some interesting shaders](https://av306.github.io/interesting-graphics)
+
+- [cp](https://github.com/AV306/cp): [codebreaker.xyz](https://codebreaker.xyz) solutions, mostly copied from editorials
 
