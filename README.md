@@ -5,12 +5,12 @@ I'm a student from Singapore :singapore: who codes and draws sometimes!
 I go by the name "Blender" or some variation of "AV3_08" (depending on availability) on most sites.
 
 <!--
-I'm also a furry, no hate pls, I'm just a guy who made anthro animal characters to express myself and likes drawing them ;w;
+I'm also a furry, no hate pls, I'm just a guy who likes drawing anthropomorphic animals ;w;
 
 While I'm at it, have some info on my OCs:
-  > Blender (my sona) - quiet orange tabby cat, loves science (physics in particular), programming and engineering (especially all 3 together in a project). A bit socially awkward. Washing crystals of a soluble compound with water is the kind of thing he would do
+  > Blender (my sona) - quiet orange tabby cat, loves science (physics in particular), programming and engineering (especially all 3 together in a project). A bit socially awkward. Washing crystals of a soluble compound with water by accident is the kind of thing he would do
   > Tachyon - Extroverted gray/white/orange protogen, flies planes. Blender's close friend, symbol is λ̬ because I like Half-Life and diacritics are cool
-  > Dicot - green fox, botanist, also Blender's and Tachyon's friend (of course). His design came from a bunch of doodles on my bio notes
+  > Dicot - green fox, botanist, also Blender's and Tachyon's friend (of course). His "design" came from a bunch of doodles on my bio notes
 -->
 
 <!--
