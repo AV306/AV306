@@ -53,7 +53,7 @@ My preferred languages (no particular order):
 ## Active projects (In order of priority):
 
 1.  [Xenon](https://github.com/AV306/xenon)
-2.  appdock
+2.  [MultiBind](https://github.com/AV306/KeybindsGalore)
 
 <br>
 
@@ -68,6 +68,8 @@ My preferred languages (no particular order):
 - [Xenon](https://github.com/AV306/xenon): An easily scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, Red Reticle and more!
 
 - [Blencord](https://github.com/AV306/blencord): A very minimal and basic command-line Discord client, made with Javacord in 2 hours.
+
+- [MultiBind](https://github.com/AV306/KeybindsGalore): A fork of KeybindsGalore, originally by Cael and updated to 1.20 by HVB007.
 
 - Various PaperMC plugins (I forgot where they went)
 
