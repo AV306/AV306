@@ -7,9 +7,9 @@ I go by the name "Blender" or some variation of "AV3_08" (depending on availabil
 <!--
 I'm also a furry, no hate pls, I'm just a guy who likes drawing anthropomorphic animals ;w;
 
-While I'm at it, have some info on my OCs:
+While I'm at it, have some info on my characters!
   > Blender (my sona) - quiet orange tabby cat, loves science (physics in particular), programming and engineering (especially all 3 together in a project). A bit socially awkward. Washing crystals of a soluble compound with water by accident is the kind of thing he would do
-  > Tachyon - Extroverted gray/white/orange protogen, flies planes. Blender's close friend, symbol is λ̬ because I like Half-Life and diacritics are cool
+  > Tachyon - Extroverted gray/aqua/orange protogen, flies planes. Blender's close friend, symbol is λ̬ because I like Half-Life and diacritics are cool
   > Dicot - green fox, botanist, also Blender's and Tachyon's friend (of course). His "design" came from a bunch of doodles on my bio notes
 -->
 
@@ -38,7 +38,7 @@ If you've noticed these, hello!
 My preferred languages (no particular order):
 - Java / Kotlin
 - C# (nice blend of Java and C++, also Unity is fun)
-- JS / TS (I like `canvas`-based games a lot for some reason)
+- JS / TS (I like `canvas`-based games a lot because of their universality)
 - GLSL (not really a language, but I love shaders)
 - Python (there's something about built-in JSON and HTTP libraries that I find strangely attractive)
 
@@ -61,17 +61,17 @@ My preferred languages (no particular order):
 
 <br>
 
-## Things I did
+## Stuff I did
 
 **Java:**
 
 - [Xenon](https://github.com/AV306/xenon): An easily scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, Red Reticle and more!
 
-- [Blencord](https://github.com/AV306/blencord): A very minimal and basic command-line Discord client, made with Javacord in 2 hours.
+- [Blencord](https://github.com/AV306/blencord): A very minimal and basic command-line Discord client, made with Javacord in under 3 hours.
 
 - [MultiBind](https://github.com/AV306/KeybindsGalore): A fork of KeybindsGalore, originally by Cael and updated to 1.20 by HVB007.
 
-- Various PaperMC plugins (I forgot where they went)
+- Various PaperMC plugins (I lost most of them when my old pc died)
 
 <br>
 
@@ -91,7 +91,7 @@ My preferred languages (no particular order):
 
 - Documentation and (one) code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last checked: somewhere in June)
 
-- [2D engine](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary, unreliable circle colliders. Just for fun.
+- [2D engine](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary circle colliders. Made to pass the time during lessons.
 
 <br>
 
