@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a student from Singapore :singapore: who codes and draws sometimes!
+I'm a student from Singapore 🇸🇬 who codes and draws sometimes!
 
 I go by the name "Blender" or some variation of "AV3_08" (depending on availability) on most sites.
 
@@ -8,8 +8,8 @@ I go by the name "Blender" or some variation of "AV3_08" (depending on availabil
 I'm also a furry, no hate pls, I'm just a guy who likes drawing anthropomorphic animals ;w;
 
 While I'm at it, have some info on my characters!
-  > Blender (my sona) - quiet orange tabby cat, loves science (physics in particular), programming and engineering (especially all 3 together in a project). A bit socially awkward. Washing crystals of a soluble compound with water by accident is the kind of thing he would do
-  > Tachyon - Extroverted gray/aqua/orange protogen, flies planes. Blender's close friend, symbol is λ̬ because I like Half-Life and diacritics are cool
+  > Blender (my sona) - quiet orange tabby cat, loves science (physics in particular), programming and engineering (especially all 3 together in a project). A bit socially awkward. Clumsy. 
+  > Tachyon - Extroverted gray/aqua/orange protogen, flies planes. Blender's close friend
   > Dicot - green fox, botanist, also Blender's and Tachyon's friend (of course). His "design" came from a bunch of doodles on my bio notes
 -->
 
@@ -52,8 +52,8 @@ My preferred languages (no particular order):
 
 ## Active projects (In order of priority):
 
-1.  [Xenon](https://github.com/AV306/xenon)
-2.  [MultiBind](https://github.com/AV306/KeybindsGalore)
+1.  [MultiBind](https://github.com/AV306/KeybindsGalore)
+2.  [chathook](https://github.com/AV306/chathook)
 
 <br>
 
@@ -63,7 +63,7 @@ My preferred languages (no particular order):
 
 ## Stuff I did
 
-**Java:**
+### Java:
 
 - [Xenon](https://github.com/AV306/xenon): An easily scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, Red Reticle and more!
 
@@ -75,7 +75,13 @@ My preferred languages (no particular order):
 
 <br>
 
-**Web / JS:**
+### C++
+
+- Untitled 2D engine (SFML-based)
+
+<br>
+
+### Web / JS:
 
 - [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley.
 
@@ -87,7 +93,7 @@ My preferred languages (no particular order):
 
 - [math](https://github.com/AV306/math): Some math helper tools, mostly for graphics stuff I do
 
-- [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A basic frequency analyser for simple substitution ciphers. Made for the Sentinel Programme (school thing).
+- [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A basic frequency analyser for simple substitution ciphers. Made for the Sentinel Programme (school thing). Very low effort :(
 
 - Documentation and (one) code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last checked: somewhere in June)
 
@@ -95,7 +101,7 @@ My preferred languages (no particular order):
 
 <br>
 
-**Other:**
+### Other:
 
 - [xkcd-qol](https://github.com/AV306/xkcd-qol): Extension that adds stuff to XKCD comic pages
 
