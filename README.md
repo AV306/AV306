@@ -36,8 +36,8 @@ If you've noticed these, hello!
 <br>
 
 My preferred languages (no particular order):
-- Java / Kotlin
-- C# (nice blend of Java and C++, also Unity is fun)
+- Java
+- C++ ([engine](https://github.com/AV306/engine) dev was fun!)
 - JS / TS (I like `canvas`-based games a lot because of their universality)
 - GLSL (not really a language, but I love shaders)
 - Python (there's something about built-in JSON and HTTP libraries that I find strangely attractive)
@@ -77,7 +77,7 @@ My preferred languages (no particular order):
 
 ### C++
 
-- Untitled 2D engine (SFML-based)
+- [Untitled SFML 2D engine](https://github.com/AV306.engine)
 
 <br>
 
@@ -89,13 +89,13 @@ My preferred languages (no particular order):
 
 - [explore.js](https://av306.github.io/explore.js): Minecraft 2D, but you can't mine or craft. Work in progress.
 
-- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~somewhat inane~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
+- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~somewhat useless~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
-- [math](https://github.com/AV306/math): Some math helper tools, mostly for graphics stuff I do
+- [math](https://github.com/AV306/math): Some math helper tools, mostly for graphics stuff
 
 - [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A basic frequency analyser for simple substitution ciphers. Made for the Sentinel Programme (school thing). Very low effort :(
 
-- Documentation and (one) code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last checked: somewhere in June)
+- Documentation and (one) code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last checked: somewhere in June 2023)
 
 - [2D engine](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary circle colliders. Made to pass the time during lessons.
 
@@ -103,7 +103,7 @@ My preferred languages (no particular order):
 
 ### Other:
 
-- [xkcd-qol](https://github.com/AV306/xkcd-qol): Extension that adds stuff to XKCD comic pages
+- [xkcd-qol](https://github.com/AV306/xkcd-qol): Extension that adds stuff to XKCD comic pages ("Explain" button linking to `explainxkcd`, quick-jump-to-index button)
 
 - [Some interesting shaders](https://av306.github.io/interesting-graphics)
 
