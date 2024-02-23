@@ -39,8 +39,8 @@ My preferred languages (no particular order):
 - Java
 - C++ ([engine](https://github.com/AV306/engine) dev was fun!)
 - JS / TS (I like `canvas`-based games a lot because of their universality)
+- Python (making http requests by hand is actually quite fun!)
 - GLSL (not really a language, but I love shaders)
-- Python (there's something about built-in JSON and HTTP libraries that I find strangely attractive)
 
 (please ignore the many empty repos, I'll get around to finishing them someday)
 
@@ -52,8 +52,7 @@ My preferred languages (no particular order):
 
 ## Active projects (In order of priority):
 
-1.  [MultiBind](https://github.com/AV306/KeybindsGalore)
-2.  [chathook](https://github.com/AV306/chathook)
+(hiatus for final year stuff)
 
 <br>
 
