@@ -1,16 +1,15 @@
 ## Hello!
 
-I'm a student from Singapore 🇸🇬 who codes and draws sometimes!
+I'm a student and furry programmer from Singapore 🇸🇬 who codes and draws sometimes!
 
-I go by the name "Blender" or some variation of "AV3_08" (depending on availability) on most sites.
+I go by the name "Blender" or "diblenderbenzene" (or less commonly, "AV3_08", "AV306", or some variation depending on availability) on most sites.
 
 <!--
-I'm also a furry, no hate pls, I'm just a guy who likes drawing anthropomorphic animals ;w;
-
-While I'm at it, have some info on my characters!
-  > Blender (my sona) - quiet orange tabby cat, loves science (physics in particular), programming and engineering (especially all 3 together in a project). A bit socially awkward. Clumsy. 
-  > Tachyon - Extroverted gray/aqua/orange protogen, flies planes. Blender's close friend
-  > Dicot - green fox, botanist, also Blender's and Tachyon's friend (of course). His "design" came from a bunch of doodles on my bio notes
+Have some info on my characters!
+  > Blender (my main sona) - Quiet orange tabby cat, loves science (physics in particular), programming and engineering (especially all 3 together in a project). Socially awkward. Clumsy.
+  > Tachyon (my pfp)- Extroverted, athletic gray/aqua/orange protogen, flies planes. Blender's close friend!
+  > Dicot - Green fox, botanist, also Blender's and Tachyon's friend (of course). His "design" came from a bunch of doodles on my bio notes.
+  > Kyra - Fluffy heterochromatic (amber/dark purple) blue/purple dragon, data analyst / information hoarder. Likes flying. Can't quite breathe fire due to an injury, but occasionally makes little jets of flame when she sneezes.
 -->
 
 <!--
@@ -38,8 +37,8 @@ If you've noticed these, hello!
 My preferred languages (no particular order):
 - Java
 - C++ ([engine](https://github.com/AV306/engine) dev was fun!)
-- JS / TS (I like `canvas`-based games a lot because of their universality)
-- Python (making http requests by hand is actually quite fun!)
+- JS / TS (I like `canvas`-based games a lot, because of their universality)
+- Python (making http requests by hand is actually quite fun, and ML is cool too ig)
 - GLSL (not really a language, but I love shaders)
 
 (please ignore the many empty repos, I'll get around to finishing them someday)
@@ -52,7 +51,7 @@ My preferred languages (no particular order):
 
 ## Active projects (In order of priority):
 
-(hiatus for final year stuff)
+On hiatus for final exams (july-august), but mainly Xenon and a few other things.
 
 <br>
 
@@ -60,13 +59,13 @@ My preferred languages (no particular order):
 
 <br>
 
-## Stuff I did
+## Stuff I've done
 
 ### Java:
 
 - [Xenon](https://github.com/AV306/xenon): An easily scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, Red Reticle and more!
 
-- [Blencord](https://github.com/AV306/blencord): A very minimal and basic command-line Discord client, made with Javacord in under 3 hours.
+- [Blencord](https://github.com/AV306/blencord) and [Potatocord](https://github.com/AV306/potatocord): Two attempts at making Discord clients, both very flawed (Blencord only works with bot tokens; I never got around to implementing message sending in Potatocord)
 
 - [MultiBind](https://github.com/AV306/KeybindsGalore): A fork of KeybindsGalore, originally by Cael and updated to 1.20 by HVB007.
 
@@ -82,13 +81,13 @@ My preferred languages (no particular order):
 
 ### Web / JS:
 
-- [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley.
+- [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley!
 
-- [PaintApp](https://av306.github.io/PaintApp): a basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
+- [PaintApp](https://av306.github.io/PaintApp): A basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
 
-- [explore.js](https://av306.github.io/explore.js): Minecraft 2D, but you can't mine or craft. Work in progress.
+- [explore.js](https://av306.github.io/explore.js): Minecraft 2D, but you can't mine or craft. Work in progress. May never be finished.
 
-- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~somewhat useless~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
+- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~very useless~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
 - [math](https://github.com/AV306/math): Some math helper tools, mostly for graphics stuff
 
