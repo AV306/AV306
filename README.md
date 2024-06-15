@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm a student and furry programmer from Singapore 🇸🇬 who codes and draws sometimes!
+I'm a student and furry programmer (meow :3) from Singapore 🇸🇬 who codes and draws sometimes!
 
 I go by the name "Blender" or "diblenderbenzene" (or less commonly, "AV3_08", "AV306", or some variation depending on availability) on most sites.
 
