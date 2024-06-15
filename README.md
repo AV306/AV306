@@ -1,4 +1,4 @@
-## Hello!
+## Hello! 👋
 
 I'm a student and furry programmer from Singapore 🇸🇬 who codes and draws sometimes!
 
