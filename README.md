@@ -1,15 +1,15 @@
 ## Hello! 👋
 
-I'm a student and furry programmer (meow :3) from Singapore 🇸🇬 who codes and draws sometimes!
+I'm a student and neurodivergent furry programmer (meow :3) from Singapore 🇸🇬 who codes and draws sometimes!
 
 I go by the name "Blender" or "diblenderbenzene" (or less commonly, "AV3_08", "AV306", or some variation depending on availability) on most sites.
 
 <!--
 Have some info on my characters!
   > Blender (my main sona) - Quiet orange tabby cat, loves science (physics in particular), programming and engineering (especially all 3 together in a project). Socially awkward. Clumsy.
-  > Tachyon (my pfp)- Extroverted, athletic gray/aqua/orange protogen, flies planes. Blender's close friend!
-  > Dicot - Green fox, botanist, also Blender's and Tachyon's friend (of course). His "design" came from a bunch of doodles on my bio notes.
-  > Kyra - Fluffy heterochromatic (amber/dark purple) blue/purple dragon, data analyst / information hoarder. Likes flying. Can't quite breathe fire due to an injury, but occasionally makes little jets of flame when she sneezes.
+  > Kyra - Fluffy heterochromatic (amber/pale green) blue/purple dragon, data analyst / information hoarder. Loves flying. Can't quite breathe fire due to an injury, but occasionally makes little jets of flame when she sneezes.
+  > Tachyon (my pfp)- Extroverted, athletic gray/aqua/orange protogen, flies planes. 2 sets of ears. Blender's close friend!
+  > Dicot - Green fox, strategist botanist as a hobby. Also Blender's and Tachyon's friend (of course). His "design" came from a bunch of doodles on my bio notes.
 -->
 
 <!--
