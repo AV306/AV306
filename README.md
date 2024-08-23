@@ -1,15 +1,15 @@
 ## Hello! 👋
 
-I'm a student and neurodivergent furry programmer (meow :3) from Singapore 🇸🇬 who codes and draws sometimes!
+I'm a student and neurodivergent (probably) furry programmer (meow :3) from Singapore 🇸🇬 who codes and draws sometimes!
 
 I go by the name "Blender" or "diblenderbenzene" (or less commonly, "AV3_08", "AV306", or some variation depending on availability) on most sites.
 
 <!--
 Have some info on my characters!
-  > Blender (my main sona) - Quiet orange tabby cat, loves science (physics in particular), programming and engineering (especially all 3 together in a project). Socially awkward. Clumsy.
+  > Blender (my main sona) - Quiet orange tabby cat, loves svience (physics in particular) and engineering (especially both together in a project). Socially awkward. Clumsy.
   > Kyra - Fluffy heterochromatic (amber/pale green) blue/purple dragon, data analyst / information hoarder. Loves flying. Can't quite breathe fire due to an injury, but occasionally makes little jets of flame when she sneezes.
   > Tachyon (my pfp)- Extroverted, athletic gray/aqua/orange protogen, flies planes. 2 sets of ears. Blender's close friend!
-  > Dicot - Green fox, strategist botanist as a hobby. Also Blender's and Tachyon's friend (of course). His "design" came from a bunch of doodles on my bio notes.
+  > Dicot - Green fox, strategist, botanist as a hobby. Also Blender's and Tachyon's friend (of course). His "design" came from a bunch of doodles on my bio notes.
 -->
 
 <!--
@@ -51,7 +51,8 @@ My preferred languages (no particular order):
 
 ## Active projects (In order of priority):
 
-On hiatus for final exams (july-august), but mainly Xenon and a few other things.
+- [KeybindsGalore Plus](https://github.com/AV306/KeybindsGalore-Plus)
+- Successor to Xenon for 1.21 (tentatively named "the radionuclide collection")
 
 <br>
 
@@ -65,9 +66,17 @@ On hiatus for final exams (july-august), but mainly Xenon and a few other things
 
 - [Xenon](https://github.com/AV306/xenon): An easily scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, Red Reticle and more!
 
-- [Blencord](https://github.com/AV306/blencord) and [Potatocord](https://github.com/AV306/potatocord): Two attempts at making Discord clients, both very flawed (Blencord only works with bot tokens; I never got around to implementing message sending in Potatocord)
+- [Blencord](https://github.com/AV306/blencord) and [Potatocord](https://github.com/AV306/potatocord): Two failed attempts at making Discord clients  (Blencord only works with bot tokens; I never got around to implementing message sending in Potatocord)
 
-- [MultiBind](https://github.com/AV306/KeybindsGalore): A fork of KeybindsGalore, originally by Cael and updated to 1.20 by HVB007.
+- [KeybindsGalore Plus](https://github.com/AV306/KeybindsGalore-Plus): A fork of KeybindsGalore with many bugfixes and improvements (originally by Cael and updated to 1.20 by HVB007)
+
+- [LiteConfig](https://github.com/AV306/liteconfig): A small, simple & lightweight reflection-based general configuration library
+
+- [enchantable-heads](https://github.com/AV306/enchantable-heads): A more fully-featured (configurable) version of the original project; released here because my PR never got merged (sad) <details>
+  <summary></summary>
+
+  <sup>I actually did most of the code research for the original project and came up with the original implementation, but we don't really talk about that</sup>
+</details>
 
 - Various PaperMC plugins (I lost most of them when my old pc died)
 
