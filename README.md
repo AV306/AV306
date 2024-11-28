@@ -1,11 +1,13 @@
 ## Hello! 👋
 
-I'm a student and neurodivergent furry programmer (meow :3) who codes and draws sometimes!
+I'm a student and neurodivergent cat on the internet who codes and draws sometimes!
 
-I go by the name "Blender" or "diblenderbenzene" (less commonly "AV3_08", "AV306", or some variation depending on availability) on most sites.
+I go by the name "Blender" or "diblenderbenzene" (less commonly usernames satisfying the regex `AV3[_]?0[68]`) on most sites.
+
+<sub>Username regex concept inspired by [azazo](https://azazazo.github.io/about/) :D</sub>
 
 <!--
-Have some info on my OCs!
+OC info :O
   > Blender (my main sona) - Quiet orange tabby cat, loves science (physics in particular) and engineering. A bit socially awkward.
   > Kyra - Fluffy heterochromatic (amber/pale green) blue/purple dragon, data analyst and professional information hoarder. Loves flying. Can't quite breathe fire due to an injury, but occasionally makes little jets of flame when she sneezes.
   > Tachyon (my pfp) - Extroverted, athletic gray/aqua/orange protogen, flies planes. 2 sets of ears. Blender's close friend!
@@ -38,7 +40,7 @@ My preferred languages (no particular order):
 - Java
 - C++ ([engine](https://github.com/AV306/engine) dev was fun!)
 - JS / TS (I like `canvas`-based games a lot, because of their universality)
-- Python (making http requests by hand is actually quite fun, and ML is cool too ig)
+- Python (making http requests by hand is actually quite fun, and ML is cool too ig) (also pwntools cool)
 - GLSL (not really a language, but I love shaders)
 
 (please ignore the many empty repos, I'll get around to finishing or deleting them someday, hopefully)
@@ -56,11 +58,15 @@ My preferred languages (no particular order):
 
 <br>
 
-### [My major contribution to OSS](https://github.com/GoulartNogueira/BadUI/issues/1)
+### [My contribution to OSS](https://github.com/GoulartNogueira/BadUI/issues/1)
 
 <br>
 
 ## Stuff I've done
+
+### CTF-ish
+
+- [BlahajCTF 2024](https://av306.github.io/blahajctf-2024-writeups/) :D
 
 ### Java:
 
@@ -70,7 +76,7 @@ My preferred languages (no particular order):
 
 - [KeybindsGalore Plus](https://github.com/AV306/KeybindsGalore-Plus): A fork of KeybindsGalore with many bugfixes and improvements (originally by Cael and updated to 1.20 by HVB007)
 
-- [LiteConfig](https://github.com/AV306/liteconfig): A small, simple & lightweight reflection-based general configuration library
+- [LiteConfig](https://github.com/AV306/liteconfig): A small, simple & lightweight reflection-based general configuration library (development tends to happen in KeybindsGalore+)
 
 - [enchantable-heads](https://github.com/AV306/enchantable-heads): A more fully-featured (configurable) version of the original project; released here because my PR never got merged (sad) <details>
   <summary></summary>
@@ -102,9 +108,12 @@ My preferred languages (no particular order):
 
 - [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A basic frequency analyser for simple substitution ciphers. Made for the Sentinel Programme (school thing). Very low effort :(
 
-- Documentation and (one) code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last checked: somewhere in June 2023)
+- Documentation and (some) code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last checked: June 2023)
+  <details>
+    <img src="https://github.com/user-attachments/assets/cb91d456-7a75-4184-8b99-3a437efdeb75" />
+  </details>
 
-- [2D engine](https://av306.github.io/2d-engine-p5js): A ~~very unreliable~~ basic 2D game engine made in p5.js, with sprites, physics and rudimentary circle colliders. Made to pass the time during lessons.
+- [2D engine](https://av306.github.io/2d-engine-p5js): A basic 2D game engine made in p5.js, with sprites, physics and rudimentary circle colliders. Made to pass the time during lessons.
 
 <br>
 
