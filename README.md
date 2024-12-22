@@ -7,15 +7,7 @@ I go by the name "Blender" or "diblenderbenzene" (less commonly usernames satisf
 <sub>Username regex concept inspired by [azazo](https://azazazo.github.io/about/) :D</sub>
 
 <!--
-OC info :O
-  > Blender (my main sona) - Quiet orange tabby cat, loves science (physics in particular) and engineering. A bit socially awkward.
-  > Kyra - Fluffy heterochromatic (amber/pale green) blue/purple dragon, data analyst and professional information hoarder. Loves flying. Can't quite breathe fire due to an injury, but occasionally makes little jets of flame when she sneezes.
-  > Tachyon (my pfp) - Extroverted, athletic gray/aqua/orange protogen, flies planes. 2 sets of ears. Blender's close friend!
-  > Dicot - Green fox, strategist, botanist as a hobby. Also Blender's and Tachyon's friend (of course). He came from a bunch of doodles on my bio notes.
--->
-
-<!--
-If you've noticed these, hello!
+If you've noticed this, hello!
 
 ⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
