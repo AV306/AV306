@@ -1,10 +1,12 @@
 ## Hello! 👋
 
-I'm a student and neurodivergent cat on the internet who codes and draws sometimes!
+I'm a student and neurodivergent orange cat on the internet who codes and draws sometimes!
 
 I go by the name "Blender" or "diblenderbenzene" (less commonly usernames satisfying the regex `AV3[_]?0[68]`) on most sites.
 
 <sub>Username regex concept inspired by [azazo](https://azazazo.github.io/about/) :D</sub>
+
+I love research and generally learning new things! I don't really make a particular kind of thing; my projects are usually just whatever seems cool at the time.
 
 <!--
 If you've noticed this, hello!
@@ -28,11 +30,11 @@ If you've noticed this, hello!
 
 <br>
 
-My preferred languages (no particular order):
-- Java
-- C++ ([engine](https://github.com/AV306/engine) dev was fun!)
-- JS / TS (I like `canvas`-based games a lot, because of their universality)
-- Python (making http requests by hand is actually quite fun, and ML is cool too ig) (also pwntools cool)
+Preferred languages (no particular order):
+- Java (yes, this was my first language.)
+- C++ (for when you don't want a TenplateVertexBufferConsumerFactoryMamager, for some reason)
+- JS / TS (I like `canvas`-based games a lot - they're so universal and mostly *just work*)
+- Python (pwntools cool)
 - GLSL (not really a language, but I love shaders)
 
 (please ignore the many empty repos, I'll get around to finishing or deleting them someday, hopefully)
@@ -46,7 +48,6 @@ My preferred languages (no particular order):
 ## Active projects (In order of priority):
 
 - [KeybindsGalore Plus](https://github.com/AV306/KeybindsGalore-Plus)
-- Xenon (:0)
 
 <br>
 
@@ -56,11 +57,15 @@ My preferred languages (no particular order):
 
 ## Stuff I've done
 
+### Research
+
+- Coming soon
+
 ### CTF-ish
 
 - [BlahajCTF 2024](https://av306.github.io/blahajctf-2024-writeups/) :D
 
-### Java:
+### Java
 
 - [Xenon](https://github.com/AV306/xenon): A scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, croshair highlighting and more!
 
