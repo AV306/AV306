@@ -31,8 +31,8 @@ If you've noticed this, hello!
 <br>
 
 Preferred languages (no particular order):
-- Java (yes, this was my first language.)
-- C++ (for when you don't want a TenplateVertexBufferConsumerFactoryMamager, for some reason)
+- Java (yes, this was my first language. In hindsight, that may not have been the best idea, but hey, it works)
+- C++ (for when I don't want a TenplateVertexBufferConsumerFactoryManager, for some reason)
 - JS / TS (I like `canvas`-based games a lot - they're so universal and mostly *just work*)
 - Python (pwntools cool)
 - GLSL (not really a language, but I love shaders)
@@ -59,7 +59,7 @@ Preferred languages (no particular order):
 
 ### Research
 
-- Coming soon
+- Coming soon!
 
 ### CTF-ish
 
@@ -67,7 +67,7 @@ Preferred languages (no particular order):
 
 ### Java
 
-- [Xenon](https://github.com/AV306/xenon): A scalable, object-oriented and efficient<sup>\[[citation needed](https://xkcd.com/285/)\]</sup> Minecraft Fabric utility mod written in Java. Features include FullBright, WAILA, croshair highlighting and more!
+- [Xenon](https://github.com/AV306/xenon): A Minecraft Fabric utility mod. Features include FullBright, WAILA, croshair highlighting and more!
 
 - [Blencord](https://github.com/AV306/blencord) and [Potatocord](https://github.com/AV306/potatocord): Two failed attempts at making Discord clients  (Blencord only works with bot tokens; I never got around to implementing message sending in Potatocord)
 
@@ -87,7 +87,7 @@ Preferred languages (no particular order):
 
 ### C++
 
-- [Untitled SFML 2D engine](https://github.com/AV306.engine)
+- [Untitled SFML 2D engine](https://github.com/AV306/engine)
 
 <br>
 
@@ -103,10 +103,11 @@ Preferred languages (no particular order):
 
 - [math](https://github.com/AV306/math): Some math helper tools, mostly for graphics stuff
 
-- [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A basic frequency analyser for simple substitution ciphers. Made for the Sentinel Programme (school thing). Very low effort :(
+- [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A basic frequency analyser for simple substitution ciphers. Made for school. Very low effort :(
 
 - Documentation and (some) code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last checked: June 2023)
   <details>
+    <summary>Yep, I still am!</summary>
     <img src="https://github.com/user-attachments/assets/cb91d456-7a75-4184-8b99-3a437efdeb75" />
   </details>
 
@@ -123,4 +124,3 @@ Preferred languages (no particular order):
 - [Some interesting shaders](https://av306.github.io/interesting-graphics)
 
 - [cp](https://github.com/AV306/cp): [codebreaker.xyz](https://codebreaker.xyz) solutions, mostly copied from editorials
-
