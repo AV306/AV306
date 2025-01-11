@@ -1,6 +1,6 @@
-## Hello! 👋
+## Hello! 😺
 
-I'm a student and neurodivergent orange cat on the internet who codes and draws sometimes!
+I'm a student and orange cat on the internet who makes (and breaks) things and draws sometimes!
 
 I go by the name "Blender" or "diblenderbenzene" (less commonly usernames satisfying the regex `AV3[_]?0[68]`) on most sites.
 
