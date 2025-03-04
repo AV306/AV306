@@ -2,10 +2,6 @@
 
 I'm a student and orange cat on the internet who makes (and breaks) things and draws sometimes!
 
-I go by the name "Blender" or "diblenderbenzene" (less commonly usernames satisfying the regex `AV3[_]?0[68]`) on most sites.
-
-<sub>Username regex concept inspired by [azazo](https://azazazo.github.io/about/) :D</sub>
-
 I love research and generally learning new things! I don't really make a particular kind of thing; my projects are usually just whatever seems cool at the time.
 
 <!--
@@ -30,13 +26,6 @@ If you've noticed this, hello!
 
 <br>
 
-Preferred languages (no particular order):
-- Java (yes, this was my first language. In hindsight, that may not have been the best idea, but hey, it works)
-- C++ (for when I don't want a TenplateVertexBufferConsumerFactoryManager, for some reason)
-- JS / TS (I like `canvas`-based games a lot - they're so universal and mostly *just work*)
-- Python (pwntools cool)
-- GLSL (not really a language, but I love shaders)
-
 (please ignore the many empty repos, I'll get around to finishing or deleting them someday, hopefully)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AV306&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -45,13 +34,9 @@ Preferred languages (no particular order):
 
 <br>
 
-## Active projects (In order of priority):
+## Active projects:
 
 - [KeybindsGalore Plus](https://github.com/AV306/KeybindsGalore-Plus)
-
-<br>
-
-### [My contribution to OSS](https://github.com/GoulartNogueira/BadUI/issues/1)
 
 <br>
 
