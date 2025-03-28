@@ -1,8 +1,8 @@
 ## Hello! 😺
 
-I'm a student and orange cat on the internet who makes (and breaks) things and draws sometimes!
+I'm a student and orange cat on the internet who makes (and breaks) things!
 
-I love research and generally learning new things! I don't really make a particular kind of thing; my projects are usually just whatever seems cool at the time.
+I love research and learning new things! I don't really make a particular kind of thing; my projects are usually just whatever seems cool at the time.
 
 <!--
 If you've noticed this, hello!
@@ -76,15 +76,15 @@ If you've noticed this, hello!
 
 <br>
 
-### Web / JS:
+### Web:
 
-- [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated math questions, with a timer to improve mental calculation skills! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley!
+- [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated (timed) math questions! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley!
 
 - [PaintApp](https://av306.github.io/PaintApp): A basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
 
-- [explore.js](https://av306.github.io/explore.js): Minecraft 2D, but you can't mine or craft. Work in progress. May never be finished.
-
-- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A ~~very useless~~ PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
+- [explore.js](https://av306.github.io/explore.js): Incomplete experiment in procedural world generation
+.
+- [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
 - [math](https://github.com/AV306/math): Some math helper tools, mostly for graphics stuff
 
