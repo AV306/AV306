@@ -1,6 +1,6 @@
-## Hello! 😺
+## Hello!
 
-I'm a student and orange cat on the internet who makes (and breaks) things!
+I'm a student and protogen on the internet who makes and breaks things!
 
 I love research and learning new things! I don't really make a particular kind of thing; my projects are usually just whatever seems cool at the time.
 
@@ -34,19 +34,15 @@ If you've noticed this, hello!
 
 <br>
 
-## Active projects:
+## Hiatus for national exams
 
-- [KeybindsGalore Plus](https://github.com/AV306/KeybindsGalore-Plus)
+To all the KeybindsGalore+ users: I can't actively maintain the mod for now, I'm really sorry :sob:
 
 <br>
 
 ## Stuff I've done
 
-### Research
-
-- Coming soon!
-
-### CTF-ish
+### CTFs
 
 - [BlahajCTF 2024](https://av306.github.io/blahajctf-2024-writeups/) :D
 
@@ -82,8 +78,8 @@ If you've noticed this, hello!
 
 - [PaintApp](https://av306.github.io/PaintApp): A basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
 
-- [explore.js](https://av306.github.io/explore.js): Incomplete experiment in procedural world generation
-.
+- [explore.js](https://av306.github.io/explore.js): Incomplete experiment in procedural world generation.
+
 - [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
 - [math](https://github.com/AV306/math): Some math helper tools, mostly for graphics stuff
@@ -100,12 +96,18 @@ If you've noticed this, hello!
 
 <br>
 
+### Graphics
+
+- [Some interesting shaders](https://av306.github.io/interesting-graphics)
+
+- [A WebGPU renderer](https://github.com/
+
+<br>
+
 ### Other:
 
 - [xkcd-qol](https://github.com/AV306/xkcd-qol): Extension that adds stuff to XKCD comic pages ("Explain" button linking to `explainxkcd`, quick-jump-to-index button)
 
 - [web-qol](https://github.com/AV306/web-qol): Extension adding stuff to some pages, especially Google Translate ("slash" to select text input, backspace-when-unfocused to clear text input...)
-
-- [Some interesting shaders](https://av306.github.io/interesting-graphics)
 
 - [cp](https://github.com/AV306/cp): [codebreaker.xyz](https://codebreaker.xyz) solutions, mostly copied from editorials
