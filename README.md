@@ -54,9 +54,9 @@ If you've noticed this, hello!
 
 ### Java
 
-- [Xenon](https://github.com/AV306/xenon): A Minecraft Fabric utility mod. Features include FullBright, WAILA, croshair highlighting and more!
+- [Xenon](https://github.com/AV306/xenon): A Minecraft Fabric utility mod. Features include FullBright, WAILA, crosshair highlighting and more!
 
-- [Blencord](https://github.com/AV306/blencord) and [Potatocord](https://github.com/AV306/potatocord): Two failed attempts at making Discord clients  (Blencord only works with bot tokens; I never got around to implementing message sending in Potatocord)
+- [Blencord](https://github.com/AV306/blencord) and [Potatocord](https://github.com/AV306/potatocord): Two failed attempts at making Discord clients (Blencord only works with bot tokens; I never got around to implementing message sending in Potatocord)
 
 - [KeybindsGalore Plus](https://github.com/AV306/KeybindsGalore-Plus): A fork of KeybindsGalore with many bugfixes and improvements (originally by Cael and updated to 1.20 by HVB007)
 
@@ -70,13 +70,11 @@ If you've noticed this, hello!
 
 - Various PaperMC plugins (I lost most of them when my old pc died)
 
-<br>
 
 ### C/C++
 
 - [Untitled SFML 2D engine](https://github.com/AV306/engine)
 
-<br>
 
 ### Graphics
 
@@ -84,7 +82,6 @@ If you've noticed this, hello!
 
 - [Some interesting shaders](https://av306.github.io/interesting-graphics)
 
-<br>
 
 ### Web
 
@@ -93,12 +90,12 @@ If you've noticed this, hello!
 - [PaintApp](https://av306.github.io/PaintApp): A basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
 
 - [explore.js](https://av306.github.io/explore.js): Incomplete experiment in procedural world generation
-.
+
 - [Pet Da Fox (aka Blu Petting Simulator)](https://av306.github.io/petdafox): Pet the fox! A PopCat-like thing based on an animation by [@blufoxery](https://instagram.com/blufoxery)
 
 - [math](https://github.com/AV306/math): Some math helper tools, mostly for graphics stuff
 
-- [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A (very) basic frequency analyser for simple substitution ciphers. Made for school.(
+- [Codebreaker](https://av306.github.io/codebreaker-sentinel/): A (very) basic frequency analyser for simple substitution ciphers. Made for school.
 
 - Documentation and code contributions to [MaxiGames.js](https://github.com/MaxiGames/MaxiGames.js): I'm the "Professional MaxiGames PR Man" on their Discord! (last checked: June 2023)
   <details>
@@ -108,7 +105,6 @@ If you've noticed this, hello!
 
 - [2D engine](https://av306.github.io/2d-engine-p5js): A basic 2D game engine made in p5.js, with sprites, physics and rudimentary circle colliders. Made to pass the time during lessons.
 
-<br>
 
 ### Other:
 
