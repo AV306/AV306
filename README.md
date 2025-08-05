@@ -35,7 +35,7 @@ If you've noticed this, hello!
 <br>
 
 
-## On hiatus for school
+## Mostly on hiatus for school
 
 
 <br>
@@ -50,13 +50,15 @@ If you've noticed this, hello!
 
 - [BlahajCTF 2024](https://av306.github.io/blahajctf-2024-writeups/) :D
 
-- Cyberthon 2025
+- Cyberthon 2025 (we fell off for this one)
 
 ### Java
 
-- [Xenon](https://github.com/AV306/xenon): A Minecraft Fabric utility mod. Features include FullBright, WAILA, crosshair highlighting and more!
+- [Xenon](https://github.com/AV306/xenon): A (now discontinued) Minecraft Fabric utility mod. Features include FullBright, WAILA, crosshair highlighting and more!
 
 - [Blencord](https://github.com/AV306/blencord) and [Potatocord](https://github.com/AV306/potatocord): Two failed attempts at making Discord clients (Blencord only works with bot tokens; I never got around to implementing message sending in Potatocord)
+
+<sub>See LiteCord for an actually successful attempt!</sub>
 
 - [KeybindsGalore Plus](https://github.com/AV306/KeybindsGalore-Plus): A fork of KeybindsGalore with many bugfixes and improvements (originally by Cael and updated to 1.20 by HVB007)
 
@@ -85,6 +87,8 @@ If you've noticed this, hello!
 
 ### Web
 
+- [LiteCord](https://github.com/AV306/litecord): Pure HTML/CSS/JS Discord client using only the REST API. A little janky, but fully functional!
+
 - [SpeedMath](https://github.com/Craftless/speed-math-qns): Randomly generated (timed) math questions! Made with Node.js, React and Firebase. Collaboration with [Craftless](https://github.com/Craftless), [AustinJason](https://github.com/AustinJason), and Wesley!
 
 - [PaintApp](https://av306.github.io/PaintApp): A basic drawing app with different brush types, shape and text tools. Made in p5.js as a school project.
@@ -112,4 +116,4 @@ If you've noticed this, hello!
 
 - [web-qol](https://github.com/AV306/web-qol): Extension adding stuff to some pages, especially Google Translate ("slash" to select text input, backspace-when-unfocused to clear text input...)
 
-- [cp](https://github.com/AV306/cp): [codebreaker.xyz](https://codebreaker.xyz) solutions, mostly copied from editorials
+- [cp-solutions](https://github.com/AV306/cp): [codebreaker.xyz](https://codebreaker.xyz) solutions, mostly copied from editorials
